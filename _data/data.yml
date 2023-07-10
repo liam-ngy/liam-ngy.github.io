@@ -1,0 +1,258 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Liam Hoang Duc Nguyen 
+    tagline: iOS Engineer
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: liam.ngy@icloud.com
+    phone: 0408 818 063
+    timezone: Australia/Sydney
+    citizenship: german / Work & Holiday Visa 417 (Full Working rights)
+    website: #do not add http://
+    linkedin: liam-ngy
+    github: https://github.com/liam-ngy
+    # twitter: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Professional
+
+        - idiom: German
+          level: Professional
+
+    interests:
+      title: Key Skills
+      info:
+        - item: Swift 
+        - item: iOS Development
+        - item: UIKit, SwiftUI
+        - item: Combine
+        - item: Instruments
+        - item: Interface Builder
+        - item: Programmitcally UI
+        - item: UnitTesting
+        - item: CoreData
+        - item: GraphQL
+        - item: Protobuf
+        - item: RESTful APIs
+        - item: Git
+        - item: Agile Development
+        - item: Firebase (Analytics, Crash Reports)
+        - item: Accessbility
+
+
+
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Experienced iOS Engineer with a passion for crafting high-quality mobile applications. Also exploring Rust and Elixir Phoenix on the side.
+      Took a one-year break to travel in Australia and gained valuable experience working as a barista. Open to contracted work or casual data analyst roles.
+      Seeking opportunities to contribute to innovative iOS projects.
+
+education:
+    title: Education
+    info:
+      - degree: Software Engineer Certificate
+        university: Itech School Hamburg
+        time: 2015 - 2018
+        details: |
+          During this comprehensive program, I pursued a 3-year apprenticeship in software engineering,
+          which was a unique combination of practical training within a unicorn company and theoretical education at an IT school.
+          This experience allowed me to develop a strong foundation in software engineering principles and practices.
+
+experiences:
+    title: Experiences
+    info:
+
+      - role: iOS Engineer
+        time: 2020 - 2022
+        company: MOIA
+        details: |
+          MOIA is a Hamburg-based mobility startup, backed by Volkswagen Group, focused on sustainable on-demand ride-hailing services
+          and future advancements in autonomous transportation. During my time at MOIA I worked as part of the payment team.
+
+          **Responsibilities**
+          - Collaborated with cross-functional teams to understand user requirements and design payment flows.
+          - Worked closely with backend teams to integrate payment gateways and ensure smooth transaction processing.
+          - Continuously monitored and improved the payment experience based on user feedback and analytics.
+          - Actively participated in code reviews and refactoring, improving codebase maintainability, scalability, and development efficiency.
+          - Followed the clean code principles and utilized the VIP pattern, ensuring a maintainable and scalable codebase.
+          - Implemented accessibility features in the app to enhance usability for all customers, prioritizing inclusivity.
+
+
+          **Key Achievements:**
+          - Implemented PayPal as a payment method, resulting in increased ride bookings and enhanced user convenience.
+          - Took an active role in hiring management, conducting technical interviews and evaluating candidates,
+            ensuring the team's growth and maintaining high-quality talent.
+          - Developed and implemented a new version of driver tipping, providing users with a seamless and convenient way to express gratitude to their drivers.
+          - Developed and launched an updated version of the voucher section, improving the user experience and streamlining the process of redeeming vouchers.
+
+
+          For more details about my role and achievements, please refer to my reference letter.
+
+
+      - role: Junior iOS Engineer
+        time: 2018 - 2020
+        company: XING SE, Hamburg
+        details: |
+          At XING SE, I had the opportunity to continue my professional journey as a Junior iOS Developer within the "Upsell Payment Premium" team.
+          This team focused on enhancing user experience and providing premium membership options for XING users.
+
+          **Responsibilities**
+          - Utilized CoreData for efficient data management and persistence within the iOS application.
+          - Developed features and functionality using Swift and Objective-C, ensuring a seamless user experience.
+          - Integrated GraphQL for efficient data retrieval and manipulation.
+          - Implemented subscription and payment functionalities using StoreKit framework.
+          - Collaborated closely with cross-functional teams including product managers and designers to deliver high-quality solutions aligned with business requirements.
+          - Participated in code reviews, ensuring code quality and adherence to best practices.
+          - Assisted in troubleshooting and resolving technical issues to maintain a stable and reliable iOS application.
+          - Strong iOS Development team of 30~ people.
+
+          **Key Achievements:**
+          - Demonstrated strong adaptability by effectively dealing with feedback and incorporating it into the development process.
+          - Developed effective communication and conflict resolution skills while working with conflicting team members, ensuring successful collaboration.
+          - Successfully shipped the premium section, contributing to the revenue generation of XING.
+          - Rewrote important business logic from Objective-C to Swift, improving code maintainability and enhancing the overall performance of the application.
+
+      - role: Apprenticeship Software Engineer
+        time: 2015 - 2018
+        company: XING SE, Hamburg
+        details: |
+          
+          During my apprenticeship at XING, a leading professional networking platform with over 12 million users,
+          I gained valuable experience in various areas of software development and IT operations. 
+
+          **Responsibilities**
+            - Web Development: Worked on JavaScript (React.js) projects, contributing to the development of responsive user interfaces.
+            - Backend Development: Acquired skills in Ruby on Rails for building robust and scalable web applications.
+            - iOS Development: Participated in iOS app development, gaining hands-on experience in creating high-quality mobile applications.
+            - Software Testing: Collaborated with the testing team to perform comprehensive software testing, ensuring the quality and reliability of the developed applications.
+            - Internal IT: Assisted in resolving technical issues and providing support to ensure smooth IT operations.
+            - Software Architecture: Collaborated with the architecture team to understand and contribute to scalable software solutions (python).
+
+      - role: Frontend Developer & Screen Designer
+        time: 2015 (6months)
+        company: Alexanderplatz Hamburg, Hamburg
+        details: |
+          - Worked as an intern in frontend development and screen design, specializing in Social Media, Landing pages, and small websites utilizing WordPress.
+          - Utilized Bootstrap framework to build responsive and mobile-friendly websites, enhancing cross-device compatibility.
+          - Employed Photoshop skills to manipulate photos and create visually appealing social media posts.
+
+      - role: Frontend Developer (Internship)
+        time: 2014 (5 months)
+        company: This is DMG!, Hannover
+        details: |
+          - Acquired a solid foundation in HTML, CSS (including SASS), and JavaScript during an internship in frontend development.
+projects:
+    title: Side Projects
+    intro: >
+    assignments:
+      - title: AeroRecipe iOS App
+        link: "#hook"
+        tagline: |
+          For my own personal growth and learning, I am currently developing an private iOS app AeroRecipe, focused on providing a vast collection of coffee recipes. 
+          The app is designed for offline usage, allowing users to access an extensive range of AeroPress coffee recipes without an internet connection.
+          One of the challenges I encountered was the absence of a public API for the website [AeroRecipe](https://aeroprecipe.com). 
+          To overcome this challenge, I developed a custom script utilizing Elixir and leveraging the capabilities of Floki, an HTML parsing library.           
+
+          Additionally, I used [Explorer](https://github.com/elixir-nx/explorer) based on Polars, which is the equivalent of Pandas but written in Rust.
+          During the development process, I utilized [Livebook](https://livebook.dev/), a tool similar to Jupyter,
+          to explore and analyze the data in an interactive environment.
+          The app is being built with SwiftUI and utilizes Core Data for seamless data management.
+
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
+# skills:
+#     title: Skills &amp; Proficiency
+#     summary: |
+#       Programming Languages:
+#         - Elixir
+#         - Rust
+#         - SQL
+#         - Ruby
+#         - Python
+#         - JavaScript
+#         - Objective-C
+#
+#       Web Frameworks and Libraries
+#         - Phoenix (Backend Webframework)
+#         - Ruby on Rails (Backend Webframework)
+#         - Explorer (DataFrame library based on Polars like Pandas)
+#
+
+
+        
+
+
+      
+
+    # toolset:
+    #   - name: Python & Django
+    #     # level: 98%
+    #
+    #   - name: Javascript & jQuery
+    #     level: 98%
+    #
+    #   - name: Angular
+    #     level: 98%
+    #
+    #   - name: HTML5 & CSS
+    #     level: 95%
+    #
+    #   - name: Ruby on Rails
+    #     level: 85%
+    #
+    #   - name: Sketch & Photoshop
+    #     level: 60%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
