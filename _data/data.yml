@@ -15,7 +15,7 @@ sidebar:
     email: liam.ngy@icloud.com
     phone: 0408 818 063
     timezone: Australia/Sydney
-    citizenship: german / Work & Holiday Visa 417 (Full Working rights)
+    citizenship: German / Work & Holiday Visa 417 (Full Working rights)
     website: #do not add http://
     linkedin: liam-ngy
     github: liam-ngy
@@ -57,7 +57,7 @@ career-profile:
     title: Career Profile
     summary: |
       An experienced iOS Engineer with a passion for crafting high-quality mobile applications. Also exploring Rust and Elixir Phoenix as capability development.
-      Currently taking a break to travel throughout Australia. Based in Sydney and working as a barista.
+      I moved to Australia in September 2022 . Based in Sydney and working as a barista.
       Open to contracted work or casual data analyst roles. Seeking opportunities to contribute to innovative iOS projects.
 
 education:
@@ -76,7 +76,7 @@ experiences:
     info:
 
       - role: iOS Engineer
-        time: 2020 - 2022
+        time: March 2020  - September 2022
         company: MOIA
         details: |
           [MOIA](https://www.moia.io/en) is a Hamburg-based mobility startup, backed by Volkswagen Group, focused on sustainable on-demand ride-hailing services
@@ -99,11 +99,11 @@ experiences:
           - Developed and launched an updated version of the voucher section, improving the user experience and streamlining the process of redeeming vouchers.
 
 
-          For more details about my role and achievements, please refer to my **[reference letter](moia-reference.pdf)**.
+          For more details about my role and achievements, please refer to my **[Reference Letter](moia-reference.pdf)**.
 
 
       - role: Junior iOS Engineer
-        time: 2018 - 2020
+        time: June 2018 - January 2020
         company: XING SE, Hamburg
         details: |
           At [XING SE](https://www.xing.com/), I had the opportunity to continue my professional journey as a Junior iOS Developer within the "Upsell Payment Premium" team.
@@ -114,7 +114,7 @@ experiences:
           - Developed features and functionality using Swift and Objective-C, ensuring a seamless user experience.
           - Integrated GraphQL for efficient data retrieval and manipulation.
           - Implemented subscription and payment functionalities using StoreKit framework.
-          - Collaborated closely with cross-functional teams including product managers and designers to deliver high-quality solutions aligned with business requirements.
+          - Collaborated closely with cross-functional teams including Product Managers and Designers to deliver high-quality solutions aligned with business requirements.
           - Participated in code reviews, ensuring code quality and adherence to best practices.
           - Assisted in troubleshooting and resolving technical issues to maintain a stable and reliable iOS application.
           - Strong iOS Development team of 30~ people.
@@ -126,7 +126,7 @@ experiences:
           - Rewrote important business logic from Objective-C to Swift, improving code maintainability and enhancing the overall performance of the application.
 
       - role: Apprenticeship Software Engineer
-        time: 2015 - 2018
+        time: August 2015 - June 2018
         company: XING SE, Hamburg
         details: |
           
@@ -139,10 +139,10 @@ experiences:
             - iOS Development: Participated in iOS app development, gaining hands-on experience in creating high-quality mobile applications.
             - Software Testing: Collaborated with the testing team to perform comprehensive software testing, ensuring the quality and reliability of the developed applications.
             - Internal IT: Assisted in resolving technical issues and providing support to ensure smooth IT operations.
-            - Software Architecture: Collaborated with the architecture team to understand and contribute to scalable software solutions (python).
+            - Software Architecture: Collaborated with the architecture team to understand and contribute to scalable software solutions (Python).
 
       - role: Frontend Developer & Screen Designer
-        time: 2015 (6months)
+        time: 2015 (6 months)
         company: Alexanderplatz Hamburg, Hamburg
         details: |
           - Worked as an intern in frontend development and screen design, specializing in Social Media, Landing pages, and small websites utilizing WordPress.
