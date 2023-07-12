@@ -58,7 +58,7 @@ career-profile:
     summary: |
       An experienced iOS Engineer with a passion for crafting high-quality mobile applications. Also exploring Rust and Elixir/Phoenix in my free time.
       I moved to Australia in September 2022 . Based in Sydney and working as a barista.
-      Open to contracted work or casual data analyst roles. Seeking opportunities to contribute to innovative iOS or Rust projects.
+      Open to contracted work or casual IT roles. Seeking opportunities to contribute to innovative iOS or Rust projects.
 
 education:
     title: Education
@@ -138,7 +138,7 @@ experiences:
             - Backend Development: Acquired skills in Ruby on Rails for building robust and scalable web applications.
             - iOS Development: Participated in iOS app development, gaining hands-on experience in creating high-quality mobile applications.
             - Software Testing: Collaborated with the testing team to perform comprehensive software testing, ensuring the quality and reliability of the developed applications.
-            - Internal IT: Assisted in resolving technical issues and providing support to ensure smooth IT operations.
+            - Internal IT: Assisted in resolving technical issues and providing support to ensure smooth IT operations. (Selenium, Calabash, Appium)
             - Software Architecture: Collaborated with the architecture team to understand and contribute to scalable software solutions (Python).
 
       - role: Frontend Developer & Screen Designer
