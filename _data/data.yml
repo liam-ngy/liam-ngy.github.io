@@ -42,6 +42,7 @@ sidebar:
         - item: Programmitcally UI
         - item: UnitTesting
         - item: CoreData
+        - item: Async Await
         - item: GraphQL
         - item: Protobuf
         - item: RESTful APIs
