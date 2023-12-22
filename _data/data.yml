@@ -35,6 +35,7 @@ sidebar:
       info:
         - item: Swift 
         - item: iOS Development
+        - item: VIPER, MVVM, MVC, Clean
         - item: UIKit, SwiftUI
         - item: Combine
         - item: Instruments
@@ -43,6 +44,7 @@ sidebar:
         - item: UnitTesting
         - item: CoreData
         - item: Async Await
+        - item: Swift Concurrency
         - item: GraphQL
         - item: Protobuf
         - item: RESTful APIs
@@ -57,14 +59,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An experienced iOS Engineer with a passion for crafting high-quality mobile applications. Also exploring Rust and Elixir/Phoenix in my free time.
-      I moved to Australia in September 2022 . Based in Sydney and working as a barista.
-      Open to contracted work or casual IT roles. Seeking opportunities to contribute to innovative iOS or Rust projects.
+      An experienced iOS Engineer with a passion for crafting high-quality mobile applications. My proficiency extends beyond iOS, encompassing prior experience in JavaScript, HTML, CSS, and Ruby on Rails. Outside of professional engagements, I delve into Elixir Phoenix and Rust, showcasing my commitment to diverse and cutting-edge technologies. As a German citizen, I am open to relocation to any country, bringing a multicultural perspective to collaborative development endeavors.
 
 education:
     title: Education
     info:
-      - degree: Software Engineer Certificate
+      - degree: IT Specialist for Application Development
         university: Itech School Hamburg
         time: 2015 - 2018
         details: |
@@ -156,22 +156,22 @@ experiences:
         company: This is DMG!, Hannover
         details: |
           - Acquired a solid foundation in HTML, CSS (including SASS), and JavaScript during an internship in frontend development.
-projects:
-    title: Side Projects
-    intro: >
-    assignments:
-      - title: AeroRecipe iOS App
-        link: "#hook"
-        tagline: |
-          For my own personal growth and learning, I am currently developing an private iOS app AeroRecipe, focused on providing a vast collection of coffee recipes. 
-          The app is designed for offline usage, allowing users to access an extensive range of AeroPress coffee recipes without an internet connection.
-          One of the challenges I encountered was the absence of a public API for the website [AeroRecipe](https://aeroprecipe.com). 
-          To overcome this challenge, I developed a custom script utilizing Elixir and leveraging the capabilities of Floki, an HTML parsing library.           
-
-          Additionally, I used [Explorer](https://github.com/elixir-nx/explorer) based on Polars, which is the equivalent of Pandas but written in Rust.
-          During the development process, I utilized [Livebook](https://livebook.dev/), a tool similar to Jupyter,
-          to explore and analyze the data in an interactive environment.
-          The app is being built with SwiftUI and utilizes Core Data for seamless data management.
+# projects:
+#     title: Side Projects
+#     intro: >
+#     assignments:
+#       - title: AeroRecipe iOS App
+#         link: "#hook"
+#         tagline: |
+#           For my own personal growth and learning, I am currently developing an private iOS app AeroRecipe, focused on providing a vast collection of coffee recipes. 
+#           The app is designed for offline usage, allowing users to access an extensive range of AeroPress coffee recipes without an internet connection.
+#           One of the challenges I encountered was the absence of a public API for the website [AeroRecipe](https://aeroprecipe.com). 
+#           To overcome this challenge, I developed a custom script utilizing Elixir and leveraging the capabilities of Floki, an HTML parsing library.           
+#
+#           Additionally, I used [Explorer](https://github.com/elixir-nx/explorer) based on Polars, which is the equivalent of Pandas but written in Rust.
+#           During the development process, I utilized [Livebook](https://livebook.dev/), a tool similar to Jupyter,
+#           to explore and analyze the data in an interactive environment.
+#           The app is being built with SwiftUI and utilizes Core Data for seamless data management.
 
 # oss:
 #     title: OSS Contributions
