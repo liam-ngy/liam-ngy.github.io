@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Liam Hoang Duc Nguyen 
-    tagline: iOS Engineer
+    tagline: Software Engineer
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,33 +33,24 @@ sidebar:
     interests:
       title: Key Skills
       info:
-        - item: Swift 
         - item: iOS Development
-        - item: VIPER, MVVM, MVC, Clean
-        - item: UIKit, SwiftUI
-        - item: Combine
-        - item: Instruments
-        - item: Interface Builder
-        - item: Programmitcally UI
-        - item: UnitTesting
-        - item: CoreData
-        - item: Async Await
-        - item: Swift Concurrency
-        - item: GraphQL
-        - item: Protobuf
-        - item: RESTful APIs
-        - item: Git
+        - item: GraphQL (Building and managing data queries)
+        - item: API Integration (Connecting different apps and services to work together)
+        - item: Git (Version control for tracking changes in code)
         - item: Agile Development
-        - item: Firebase (Analytics, Crash Reports)
-        - item: Accessbility
-
-
+        - item: Firebase (Analytics and monitoring for apps)
+        - item: HTML, CSS, JavaScript(Making websites interactive)
+        - item: React.js (Building dynamic user interfaces for webapps)
+        - item: Ruby on Rails (Framework for building web applications)
+        - item: Docker (Simplifying software deployment and development)
+        - item: Elixir Phoenix (Building high-performance web systems)
+        - item: Database Management (Organizing and managing data for websites and apps)
 
 
 career-profile:
     title: Career Profile
     summary: |
-      An experienced iOS Engineer with a passion for crafting high-quality mobile applications. My proficiency extends beyond iOS, encompassing prior experience in JavaScript, HTML, CSS, and Ruby on Rails. Outside of professional engagements, I delve into Elixir Phoenix and Rust, showcasing my commitment to diverse and cutting-edge technologies. As a German citizen, I am open to relocation to any country, bringing a multicultural perspective to collaborative development endeavors.
+      An experienced Software Engineer with 8 years of expertise in developing scalable, high-quality applications. I specialize in both iOS development and full-stack technologies, with significant experience in designing APIs, integrating backend systems, working with databases, and building intuitive user interfaces with modern frontend libraries such as React.js and Angular. Proficient in Swift, JavaScript, Elixir Phoenix, Docker, and modern frameworks, I bring a comprehensive and adaptable approach to problem-solving. I have contributed to backend systems handling millions of users, focusing on performance, stability, and high availability.
 
 education:
     title: Education
@@ -84,12 +75,13 @@ experiences:
           and future advancements in autonomous transportation. During my time at MOIA I worked as part of the payment team.
 
           **Responsibilities**
-          - Collaborated with cross-functional teams to understand user requirements and design payment flows.
-          - Worked closely with backend teams to integrate payment gateways and ensure smooth transaction processing.
-          - Continuously monitored and improved the payment experience based on user feedback and analytics.
-          - Actively participated in code reviews and refactoring, improving codebase maintainability, scalability, and development efficiency.
-          - Followed the clean code principles and utilized the VIP pattern, ensuring a maintainable and scalable codebase.
-          - Implemented accessibility features in the app to enhance usability for all customers, prioritizing inclusivity.
+          - Collaborated with cross-functional teams to understand user requirements and design payment flows, ensuring seamless integration between frontend and backend systems.  
+          - Worked closely with backend teams to integrate payment gateways, design APIs, and ensure secure and efficient transaction processing.  
+          - Contributed to optimizing backend workflows, enhancing data flow, and ensuring reliability in high-traffic scenarios.  
+          - Continuously monitored and improved the payment experience based on user feedback and analytics, collaborating with backend teams to implement necessary adjustments.  
+          - Actively participated in code reviews and refactoring, improving codebase maintainability, scalability, and development efficiency.  
+          - Followed clean code principles and utilized the VIP pattern, ensuring a maintainable and scalable codebase that aligned with backend requirements.  
+          - Implemented accessibility features in the app to enhance usability for all customers, prioritizing inclusivity and leveraging backend systems to support accessibility data.  
 
 
           **Key Achievements:**
@@ -132,16 +124,14 @@ experiences:
         company: XING SE, Hamburg
         details: |
           
-          During my apprenticeship at XING, a leading professional networking platform with over 12 million (at that time) users,
-          I gained valuable experience in various areas of software development and IT operations. 
+          During my apprenticeship at XING, a leading professional networking platform with over 12 million users at the time, I gained extensive experience in software development and IT operations, excelling in both backend and frontend technologies. This role provided me with a comprehensive understanding of full-stack development, from building robust server-side systems to creating dynamic and responsive user interfaces.
 
           **Responsibilities**
             - Web Development: Worked on JavaScript (React.js) projects, contributing to the development of responsive user interfaces.
-            - Backend Development: Acquired skills in Ruby on Rails for building robust and scalable web applications.
+            - Backend Development: Gained in-depth experience in Ruby on Rails, building and optimizing robust and scalable backend systems that support millions of users. Contributed to the design and implementation of APIs and database integrations to enhance platform functionality.
             - iOS Development: Participated in iOS app development, gaining hands-on experience in creating high-quality mobile applications.
             - Software Testing: Collaborated with the testing team to perform comprehensive software testing, ensuring the quality and reliability of the developed applications.
             - Internal IT: Assisted in resolving technical issues and providing support to ensure smooth IT operations. (Selenium, Calabash, Appium)
-            - Software Architecture: Collaborated with the architecture team to understand and contribute to scalable software solutions (Python).
 
       - role: Frontend Developer & Screen Designer
         time: 2015 (6 months)
@@ -155,8 +145,11 @@ experiences:
         time: 2014 (5 months)
         company: This is DMG!, Hannover
         details: |
-          - Acquired a solid foundation in HTML, CSS (including SASS), and JavaScript during an internship in frontend development.
-# projects:
+          - Gained a solid foundation in full-stack web development, including Ruby on Rails, HTML, CSS (with SASS), JavaScript, and backend technologies during the internship.
+          - Developed both frontend (user interfaces) and backend (server-side logic) components of applications, ensuring seamless integration between them using Ruby on Rails.
+          - Collaborated on creating responsive and dynamic web applications, understanding both user-facing and server-side functionality.
+
+  # projects:
 #     title: Side Projects
 #     intro: >
 #     assignments:
